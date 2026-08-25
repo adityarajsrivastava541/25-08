@@ -6,4 +6,4 @@
 - HTML
 - CSS
 
-* Hello World
+Hello World
